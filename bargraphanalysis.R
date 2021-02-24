@@ -2,6 +2,7 @@ library(ggplot2)
 library(tidyverse)
 James Dickens
 4111 Lane Place NE
+Yankees
 #Creating a basic bar graph using raw counts values from data sets
 #  (Tidyverse/ggplot method)  Chapter 1
 
